@@ -14,6 +14,7 @@
 </div>
 
 # Features 
+- Multi Guild
 - AI
 - Can speak in all languages
 - Made specially for discord
