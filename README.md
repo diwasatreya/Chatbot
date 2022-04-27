@@ -3,7 +3,7 @@
 
   
   <a href="https://github.com/discordjs">
-    <img src="https://img.shields.io/badge/discord.js-v13.0.0-blue.svg?logo=npm" alt="discordjs">
+    <img src="https://img.shields.io/badge/discord.js-v13.6.0-blue.svg?logo=npm" alt="discordjs">
   </a>
 
   <a href="https://github.com/diwasatreya/Chatbot/blob/main/LICENSE">
