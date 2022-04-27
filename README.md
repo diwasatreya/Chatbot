@@ -1,5 +1,5 @@
 <div align=center>
-  <h3>Discord Chatbot</h3> <br>
+  <h1>Discord Chatbot</h1> <br>
   
   <a href="https://github.com/discordjs">
     <img src="https://img.shields.io/badge/discord.js-v13.6.0-blue.svg?logo=npm" alt="discordjs">
@@ -11,7 +11,7 @@
 
 </div>
 
-# Features [Join Server](https://discord.gg/gU7XAxTpX5)
+# Features 
 - AI
 - Can speak in all languages
 - Made specially for discord
