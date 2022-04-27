@@ -26,8 +26,9 @@
     [![image](https://camo.githubusercontent.com/807ef293459e367b2769d7b590e00f31e35d6b2e1c7bc4f570e37abbc3650f3c/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f5a65726f446973636f72642f4769766561776179426f74)](https://repl.it/github/diwasatreya/Chatbot)
 
 # Installization
-- Update node 
-- `npm i --save-dev node@latest && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH`
+- Update your node version for replit users 
+
+- ```npm i --save-dev node@latest && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH```
 - Run `npm install` in console or shell
 - Add prefix and developer name in `config.json`
 - Add TOKEN in `.env` file or for replit user in secrets 
