@@ -11,7 +11,10 @@
 
 </div>
 
-[Join Server](https://discord.gg/gU7XAxTpX5)
+# Features [Join Server](https://discord.gg/gU7XAxTpX5)
+- AI
+- Can speak in all languages
+- Made specially for discord
 
 # Setup
 - Click Star and Folk this Code
@@ -27,9 +30,4 @@
 - Run `npm install` in console or shell
 - Add prefix and developer name in `config.json`
 - Add TOKEN in `.env` file or for replit user in secrets 
-
-# Features
-- AI
-- Can speak in all languages
-- Made specially for discord
 
