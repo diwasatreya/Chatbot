@@ -1,0 +1,34 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "It is a Multi Guild AI Chatbot which can speak in all languages.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diwasatreya/Chatbot.git"
+  },
+  "keywords": [
+    "chatbot",
+    "discord-ai",
+    "discord-bot",
+    "diwasatreya"
+  ],
+  "author": "diwasatreya (Supreme#2401)",
+  "license": "ISC",
+   "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "node-fetch": "^2.6.2",
+    "quick.db": "^7.1.3"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "devDependencies": {
+    "node": "^17.7.2"
+  }
+}
