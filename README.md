@@ -1,5 +1,5 @@
 <div align=center>
- **Discord Chatbot**
+  <h3>Discord Chatbot</h3> <br>
   
   <a href="https://github.com/discordjs">
     <img src="https://img.shields.io/badge/discord.js-v13.6.0-blue.svg?logo=npm" alt="discordjs">
