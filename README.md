@@ -1,6 +1,8 @@
 <div align=center>
   <h1>Discord Chatbot</h1> <br>
   
+  <a href="https://discord.gg/dcdev"><img src="https://img.shields.io/discord/708565122188312579?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
+  
   <a href="https://github.com/discordjs">
     <img src="https://img.shields.io/badge/discord.js-v13.6.0-blue.svg?logo=npm" alt="discordjs">
   </a>
