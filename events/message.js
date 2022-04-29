@@ -30,7 +30,7 @@ client.on("messageCreate", async (message) => {
 let cbot = db.get(`chat_${message.guild.id}`);
   let lang = db.get(`lang_${message.author.id}`);
    let speak = db.get(`speak_${message.author.id}`);
-  if(lang === null) lang = "nepali";
+  if(lang === null) lang = "auto";
  if(speak === null) speak = "text";
   const chatb = client.channels.cache.get(cbot);
   if (message.channel.id == chatb) {
