@@ -47,7 +47,7 @@ return message.channel.send(`${message.author.username} don't ping anyone!`);}
     }).then(res => res.json())
         .then(async (data) => {
         
-await fetch(`https://translate-api.ml/translate?text=${data.message}&lang=${lang}`, {
+await fetch(`https://translate-api.ml/translate?text=${encodeURIComponent(data.message)}&lang=${lang}`, {
 }).then(res => res.json()).then(dataa => {
     message.reply(dataa.translated.text);
 })
@@ -60,7 +60,7 @@ await fetch(`https://translate-api.ml/translate?text=${data.message}&lang=${lang
     }).then(res => res.json())
         .then(async (data) => {
         
-await fetch(`https://translate-api.ml/translate?text=${data.message}&lang=${lang}`, {
+await fetch(`https://translate-api.ml/translate?text=${encodeURIComponent(data.message)}&lang=${lang}`, {
 }).then(res => res.json()).then(dataa => {
     message.reply(dataa.translated.pronunciation);
 })
